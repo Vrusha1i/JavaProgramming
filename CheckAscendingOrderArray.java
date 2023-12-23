@@ -1,6 +1,6 @@
 package ascendingOrderArray.com;
 
-public class Check {
+public class CheckAscendingOrderArray {
 
 	public static void main(String[] args) {
 
