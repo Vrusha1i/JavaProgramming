@@ -2,7 +2,7 @@ package armstrongNumber.com;
 
 import java.util.Scanner;
 
-public class Test {
+public class ArmstrongNum {
 
 	public static void main(String[] args) {
 
