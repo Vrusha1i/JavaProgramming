@@ -1,0 +1,25 @@
+package com;
+
+import java.util.ArrayList;
+
+public class Arraylist2 {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> test=new ArrayList<Integer>();
+
+		test.add(null);
+		test.add(66);
+		test.add(99);
+		test.add(67);
+		test.add(99);
+		test.add(null);
+		for(int i=0;i<test.size();i++) {
+			System.out.println(test.get(i));
+		}
+		
+		for(Integer it:test){
+			System.out.println(it);
+		}
+	}
+
+}
